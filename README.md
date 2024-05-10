@@ -21,9 +21,9 @@ ________________________________________________________________________________
 # Como usar
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="Gemini_Generated_Image_jrkm91jrkm91jrkm (2) (1).jpg">
- <source media="(prefers-color-scheme: light)" srcset="Gemini_Generated_Image_jrkm91jrkm91jrkm (2) (1).jpg">
- <img alt="Logo da Minha Empresa" src="Gemini_Generated_Image_jrkm91jrkm91jrkm (2) (1).jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="Gemini_Generated_Image_kp41dfkp41dfkp41 (1).jpg">
+ <source media="(prefers-color-scheme: light)" srcset="Gemini_Generated_Image_kp41dfkp41dfkp41 (1).jpg">
+ <img alt="Manu" src="Gemini_Generated_Image_kp41dfkp41dfkp41 (1).jpg">
 </picture>
 
 Fala, galera! Bora falar da Manu, o chatbot mais gente boa da M. Eventos! Manu tá aqui pra te dar aquela mãozinha marota na hora de organizar suas festas e eventos, saca só?
