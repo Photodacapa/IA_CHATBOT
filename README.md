@@ -11,7 +11,7 @@
 > Esse foi o meu primeiro contato com o Gemini, Google IA Studio e Python
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# Manu: Proteção de Dados é Prioridade!
+# Manu: Proteção de Dados é Prioridade!🔒
 
 
 A Manu, sua assistente virtual inteligente, está aqui para te ajudar. Mas antes de começarmos, queremos garantir que você se sinta seguro e confiante ao usar nossa plataforma.
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 A implementação do chatbot Manu como ferramenta de apoio aos clientes na organização de eventos tem como objetivo principal reduzir o desperdício de alimentos e bebidas, otimizando o planejamento e a gestão de compras. Através da automatização de tarefas, geração de dados relevantes e personalização do atendimento, o Manu contribui para a organização de eventos mais eficientes, sustentáveis e satisfatórios para os clientes. Além disso, a utilização do chatbot fortalece a imagem da empresa como referência em práticas responsáveis e comprometidas com o meio ambiente.
 ___________________________________________________________________________________________________________
 
-# Como usar
+# Como usar🤖
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Gemini_Generated_Image_kp41dfkp41dfkp41 (1).jpg">
