@@ -37,4 +37,4 @@ O melhor é que ela é fácil de mexer, mano! Nada de complicação, é só mand
 Então, resumindo: se você tá precisando de uma mãozinha pra arrasar na organização da sua festa, a Manu é a escolha certa, cara. Ela é simples de mexer e entrega tudo que você precisa e mais um pouco. Tá esperando o que? Bora botar a Manu pra trabalhar e arrasar na sua próxima festança!
 
 > [!NOTE]
-> Texto gerado com apoio de IA
+> Texto e imagem gerados com apoio de IA (Gemini)
