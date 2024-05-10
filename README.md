@@ -13,7 +13,7 @@
 
 Por que a manu foi criada?
 
-A implementação do chatbot Manu como ferramenta de apoio aos clientes na organização de eventos tem como objetivo principal reduzir o desperdício de alimentos e bebidas, otimizando o planejamento e a gestão de compras. Através da automatização de tarefas, geração de dados relevantes e personalização do atendimento, o Manu contribui para a organização de eventos mais eficientes, sustentáveis e satisfatórios para os clientes. Além disso, a utilização do chatbot fortalece a imagem da empresa como referência em práticas responsáveis e comprometidas com o meio ambiente.
+A implementação do chatbot Manu como ferramenta de apoio aos clientes na organização de eventos tem como objetivo principal reduzir o desperdício de alimentos e bebidas, otimizando o planejamento e a gestão de compras. Através da automatização de tarefas, geração de dados relevantes e personalização do atendimento, a Manu contribui para a organização de eventos mais eficientes, sustentáveis e satisfatórios para os clientes. Além disso, a utilização do chatbot fortalece a imagem da empresa como referência em práticas responsáveis e comprometidas com o meio ambiente.
 ____________________________________
 > [!NOTE]
 > Esse foi o meu primeiro contato com o Gemini, Google IA Studio e Python
