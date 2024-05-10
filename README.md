@@ -25,6 +25,7 @@ Informações de saúde, como prontuários médicos ou histórico de doenças.
 Dados biométricos, como digitais, impressões faciais ou reconhecimento de voz.
 Dados de filiação religiosa ou política.
 Dados de menores de idade sem o consentimento expresso dos pais ou responsáveis legais.
+
 A Manu está comprometida com a segurança e a privacidade dos seus dados. Utilizamos as mais avançadas tecnologias de proteção de dados para garantir que suas informações estejam sempre seguras. Além disso, seguimos rigorosamente as diretrizes da LGPD para garantir o uso ético e responsável dos seus dados.
 
 Fale com a Manu sem preocupações!
