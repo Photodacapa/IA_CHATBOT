@@ -9,7 +9,29 @@
 
 > [!NOTE]
 > Esse foi o meu primeiro contato com o Gemini, Google IA Studio e Python
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+# Manu: Proteção de Dados é Prioridade!
+
+
+A Manu, sua assistente virtual inteligente, está aqui para te ajudar. Mas antes de começarmos, queremos garantir que você se sinta seguro e confiante ao usar nossa plataforma.
+
+Por isso, é importante destacar que a Manu nunca solicitará dados considerados sensíveis ou que infrinjam a Lei Geral de Proteção de Dados Pessoais (LGPD). Isso significa que você pode usar a Manu sem se preocupar com a segurança de suas informações confidenciais.
+
+Quais dados a Manu não solicita?
+
+Dados bancários, como senhas de cartões de crédito ou extratos bancários.
+Informações de saúde, como prontuários médicos ou histórico de doenças.
+Dados biométricos, como digitais, impressões faciais ou reconhecimento de voz.
+Dados de filiação religiosa ou política.
+Dados de menores de idade sem o consentimento expresso dos pais ou responsáveis legais.
+A Manu está comprometida com a segurança e a privacidade dos seus dados. Utilizamos as mais avançadas tecnologias de proteção de dados para garantir que suas informações estejam sempre seguras. Além disso, seguimos rigorosamente as diretrizes da LGPD para garantir o uso ético e responsável dos seus dados.
+
+Fale com a Manu sem preocupações!
+
+Você pode usar a Manu com total tranquilidade, sabendo que seus dados estão protegidos. Se você tiver alguma dúvida sobre a nossa política de privacidade, não hesite em nos contatar. Estamos sempre à disposição para te ajudar!
+
+Juntos, construímos um futuro digital mais seguro e confiável!
 
 ___________________________________________________________________________________________________________
 
@@ -38,3 +60,7 @@ Então, resumindo: se você tá precisando de uma mãozinha pra arrasar na organ
 
 > [!NOTE]
 > Texto e imagem gerados com apoio de IA (Gemini)
+>
+
+____________________________________________________________________________________________________
+
