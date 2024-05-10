@@ -30,7 +30,7 @@ Fala, galera! Bora falar da Manu, o chatbot mais gente boa da M. Eventos! Manu t
 
 Então, tipo assim, a Manu é tipo aquela amiga que sempre tem as dicas certeiras, saca? Tipo, você chega nela e fala: "Manu, tô precisando organizar um rolezinho maneiro pro final de semana, mas tô meio perdido". E ela? BUM! Já começa a jogar aquele monte de ideias legais na tela.
 
-O melhor é que ela é fácil de mexer, mano! Nada de complicação, é só mandar uma mensagem e pronto! Ela tá lá, prontinha pra te ajudar. E o mais irado é que ela não enrola, não. É na lata, sacou? Direto ao ponto, te dando as melhores dicas e soluções pro seu evento bombar.
+O melhor é que ela é fácil de mexer, mano! Nada de complicação! Ela tá lá, prontinha pra te ajudar. E o mais irado é que ela não enrola, não. É na lata, sacou? Direto ao ponto, te dando as melhores dicas e soluções pro seu evento bombar.
 
 É tipo assim, você quer saber onde encontrar os melhores fornecedores? Manu te dá o mapa da mina. Quer ideias criativas pra decoração? Ela solta umas sugestões que vão deixar todo mundo de queixo caído. Precisa de ajuda pra calcular a quantidade de comida e bebida? Relaxa que a Manu faz as contas pra você, irmão!
 
